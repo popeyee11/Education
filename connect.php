@@ -1,6 +1,6 @@
 <?php
 
-    $server = "localhost";
+    $server = "https://popeyee11.github.io/Education/";
     $username = "root";
     $password = "";
     $database = "ed_contact";
